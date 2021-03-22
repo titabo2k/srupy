@@ -1,4 +1,6 @@
 dist
+build
 .idea
 .git
 __pycache__
+*.egg-info/*
